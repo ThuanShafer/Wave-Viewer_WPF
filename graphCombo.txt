@@ -1,0 +1,6 @@
+Spectrogram
+Persistency Analysis
+AC Waveform
+Wave Packet
+Arbitrary Waveform
+Regular Waveform
